@@ -5,11 +5,14 @@
 }
 -->
 
-# ARCHIVED
+# UNOFFICIAL FORK!!!
 
-null-ls is now archived and will no longer receive updates. Please see
-[this issue](https://github.com/jose-elias-alvarez/null-ls.nvim/issues/1621) for
-details.
+The [original](https://github.com/jose-elias-alvarez/null-ls.nvim) null-ls is now archived and will no longer receive updates.
+Please note that I do not intend to maintain this nor develop it any further 
+than beyond my personal use. If you want to use this, please consider forking
+the [original](https://github.com/jose-elias-alvarez/null-ls.nvim) for yourself. I will not
+be providing support nor can I guarantee this repo's existance for any length
+of time. You have been warned!
 
 # null-ls.nvim
 
