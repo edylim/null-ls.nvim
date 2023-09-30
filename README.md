@@ -7,7 +7,7 @@
 
 # UNOFFICIAL FORK!!!
 
-The [original](https://github.com/jose-elias-alvarez/null-ls.nvim) null-ls is now archived and will no longer receive updates.
+The [original null-ls](https://github.com/jose-elias-alvarez/null-ls.nvim) is now archived and will no longer receive updates.
 Please note that I do not intend to maintain this nor develop it any further 
 than beyond my personal use. If you want to use this, please consider forking
 the [original](https://github.com/jose-elias-alvarez/null-ls.nvim) for yourself. I will not
